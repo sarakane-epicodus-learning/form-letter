@@ -1,3 +1,12 @@
 #letter {
   display: none;
+
+}
+
+.jumbotron1 {
+  background-image: url("https://theamericangenius.com/wp-content/uploads/2015/06/aol-youve-got-mail-alert.png");
+  padding-top: 30%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
